@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.39e3e7af.chunk.js",
+    "main.js.map": "/static/js/main.39e3e7af.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c47a842.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c47a842.js.map",
+    "static/js/2.eff569e7.chunk.js": "/static/js/2.eff569e7.chunk.js",
+    "static/js/2.eff569e7.chunk.js.map": "/static/js/2.eff569e7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c928baa3373117293b1e7e4724f55622.js": "/precache-manifest.c928baa3373117293b1e7e4724f55622.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.eff569e7.chunk.js.LICENSE.txt": "/static/js/2.eff569e7.chunk.js.LICENSE.txt",
+    "static/media/Aquarius.jpg": "/static/media/Aquarius.a06d85a8.jpg",
+    "static/media/Aries.jpg": "/static/media/Aries.b0b57d8b.jpg",
+    "static/media/Cancer.jpg": "/static/media/Cancer.59366ec6.jpg",
+    "static/media/Capricorn.jpg": "/static/media/Capricorn.237c9023.jpg",
+    "static/media/Gemini.jpg": "/static/media/Gemini.a015f94a.jpg",
+    "static/media/Leo.jpg": "/static/media/Leo.e8c7a86f.jpg",
+    "static/media/Libra.jpg": "/static/media/Libra.614366f1.jpg",
+    "static/media/Pisces.jpg": "/static/media/Pisces.ea6e25d1.jpg",
+    "static/media/Sagittarius.jpg": "/static/media/Sagittarius.1af53199.jpg",
+    "static/media/Scorpio.jpg": "/static/media/Scorpio.f3391dac.jpg",
+    "static/media/Taurus.jpg": "/static/media/Taurus.cfda2264.jpg",
+    "static/media/Virgo.jpg": "/static/media/Virgo.218e7cd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c47a842.js",
+    "static/js/2.eff569e7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.39e3e7af.chunk.js"
+  ]
+}
